@@ -1,7 +1,7 @@
 replicaCount: 1
 image:
   repository: ghcr.io/chabinhwang/my-app
-  tag: 0bfae8d53a17b01328ca65e1b49eaae06e2ba3f9
+  tag: 51b54b1861e0450886fba72b8e8d6ea891f3c163
   pullPolicy: IfNotPresent
 
 service:
